@@ -1,4 +1,4 @@
-### Research into protocols, frameworks & tools for universities in the Intelligence Age.
+### The self-driven Universities of the Intelligence Age.
 
 ### Status
 - Research & Development
@@ -23,4 +23,5 @@
 - [selfdriven.ai](https://selfdriven.ai)
 - [selfdriven.id](https://selfdriven.id)
 - [skillzeb.io](https://skillzeb.io)
+- [octomics.io](https://octomics.io)
 - [GitHub Repo](https://github.com/selfdriven-foundation/selfdriven-university)
