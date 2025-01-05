@@ -21,4 +21,6 @@
 
 ### Resources
 - [selfdriven.ai](https://selfdriven.ai)
+- [selfdriven.id](https://selfdriven.id)
+- [skillzeb.io](https://skillzeb.io)
 - [GitHub Repo](https://github.com/selfdriven-foundation/selfdriven-university)
