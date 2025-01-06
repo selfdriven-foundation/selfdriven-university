@@ -1,4 +1,4 @@
-### The self-driven Universities of the Intelligence Age.
+### Universities in the Intelligence Age.
 
 ### Status
 - Research & Development
@@ -12,6 +12,7 @@
 
 ### Outputs
 - Protocol design
+- Simulations ("The waves are crashing")
 - Frameworks
 - Kits
 
