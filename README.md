@@ -21,9 +21,14 @@
 - [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
 
 ### Resources
+
+- [selfdriven Research Simulations](https://github.com/selfdriven-foundation/research/tree/main/simulations)
 - [selfdriven.foundation/growth](https://selfdriven.foundation/growth)
 - [selfdriven.ai](https://selfdriven.ai)
 - [selfdriven.id](https://selfdriven.id)
 - [skillzeb.io](https://skillzeb.io)
 - [octomics.io](https://octomics.io)
 - [GitHub Repo](https://github.com/selfdriven-foundation/selfdriven-university)
+
+### Roadmap
+- Funding
