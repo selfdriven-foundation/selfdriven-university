@@ -4,8 +4,8 @@
 - Research & Development
 
 ### Scope
-- Purpose / Value
-- Root of Trust for society
+- Purpose / Value to Society
+- Root of Trust for society (Proof of Activity & Growth)
 - Protocols
 - Identity
 - Trust
@@ -14,13 +14,14 @@
 - Protocol design
 - Simulations ("The waves are crashing")
 - Frameworks
-- Kits
+- Kits for a practical response
 
 ### Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
 - [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
 
 ### Resources
+- [selfdriven.foundation/growth](https://selfdriven.foundation/growth)
 - [selfdriven.ai](https://selfdriven.ai)
 - [selfdriven.id](https://selfdriven.id)
 - [skillzeb.io](https://skillzeb.io)
