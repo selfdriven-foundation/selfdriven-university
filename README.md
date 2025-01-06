@@ -10,6 +10,11 @@
 - Identity
 - Trust
 
+### Processes
+- Adminissions
+- Learner Support
+- Verification of Learning
+
 ### Outputs
 - Protocol design
 - Simulations ("The waves are crashing")
