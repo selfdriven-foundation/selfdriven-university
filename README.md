@@ -1,7 +1,11 @@
 ### Universities in the Intelligence Age.
 
+> A model university for the intelligence age.
+
 ### Status
 - Research & Development
+- Building simulations
+- Building roadmap
 
 ### Scope
 - Purpose / Value to Society
@@ -9,6 +13,8 @@
 - Protocols
 - Identity
 - Trust
+- A place to meet and socialise (social)
+- Facilitate the social
 
 ### Processes
 - Adminissions
@@ -20,14 +26,22 @@
 - Simulations ("The waves are crashing")
 - Frameworks
 - Kits for a practical response
+- App with UX flow:
+    - Select skills you want to grow
+    - Templates for projects
+    - Work with AI learning-partner
+    - Physically socialise with other learners (spaces by university)
+    - Verify - human LPs no longer deliver content, they verify learning via social conversations. And templates for verification of growth/learning.
+
 
 ### Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
 - [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
 
-### Resources
-
+### Inputs
 - [selfdriven Research Simulations](https://github.com/selfdriven-foundation/research/tree/main/simulations)
+
+### Resources
 - [selfdriven.foundation/growth](https://selfdriven.foundation/growth)
 - [selfdriven.ai](https://selfdriven.ai)
 - [selfdriven.id](https://selfdriven.id)
@@ -36,4 +50,7 @@
 - [GitHub Repo](https://github.com/selfdriven-foundation/selfdriven-university)
 
 ### Roadmap
+- Scope
+- Team
 - Funding
+- Plan
