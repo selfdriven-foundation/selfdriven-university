@@ -33,13 +33,9 @@
     - Physically socialise with other learners (spaces by university)
     - Verify - human LPs no longer deliver content, they verify learning via social conversations. And templates for verification of growth/learning.
 
-
-### Contact Us
-- [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
-- [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
-
 ### Inputs
 - [selfdriven Research Simulations](https://github.com/selfdriven-foundation/research/tree/main/simulations)
+- Existing learner-focused learning initatives
 
 ### Resources
 - [selfdriven.foundation/growth](https://selfdriven.foundation/growth)
@@ -54,3 +50,8 @@
 - Team
 - Funding
 - Plan
+
+### Contact Us
+- [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
+- [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
+
