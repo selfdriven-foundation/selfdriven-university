@@ -7,7 +7,6 @@
 - Research & Development
 - Building simulations
 - Building roadmap
-- [Litepaper](/docs/LITEPAPER.md)
 
 ### Scope
 - Purpose / Value to Society
@@ -17,6 +16,7 @@
 - Trust
 - A place to meet and socialise (social)
 - Facilitate the social
+- [Litepaper](/docs/LITEPAPER.md)
 
 ### Processes
 - Adminissions
