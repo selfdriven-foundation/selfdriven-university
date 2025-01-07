@@ -1,6 +1,6 @@
 ### Universities in the Intelligence Age.
 
-> A model university for the intelligence age.
+> A reference model university for the intelligence age.
 
 > Students that are entering university today will finish in a vastly altered world.
 
