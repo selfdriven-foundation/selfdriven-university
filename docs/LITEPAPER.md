@@ -1,4 +1,4 @@
-# Universities in the Intelligence Age
+# Litepaper Universities in the Intelligence Age (v0.0.1)
 
 ## A Model University for the Intelligence Age
 Students entering university today will graduate into a vastly altered world. This document outlines a vision for a model university designed to thrive in the intelligence age, equipping students with the tools to succeed and grow in a rapidly evolving environment.

@@ -7,6 +7,7 @@
 - Research & Development
 - Building simulations
 - Building roadmap
+- [Litepaper](/docs/LITEPAPER.md)
 
 ### Scope
 - Purpose / Value to Society
