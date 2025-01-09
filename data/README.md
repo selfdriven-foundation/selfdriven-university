@@ -1,0 +1,1 @@
+Data is based on AI generated top 16 skills for each of the [skillzeb.io](https:skillzeb.io) domains.

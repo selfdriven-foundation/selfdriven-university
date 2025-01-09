@@ -31,7 +31,7 @@
 - Kits for a practical response
 - App with UX flow:
     - Select skills you want to grow
-    - Templates for projects, [Examples](/templates)
+    - Templates for projects, [examples](/templates)
     - Work with AI learning-partner
     - Physically socialise with other learners (University spaces)
     - Verify - human learning-partners no longer deliver content, they verify learning via social conversations - based on templates for verification of growth/learning.
