@@ -32,7 +32,7 @@
 - Simulations ("The waves are crashing")
 - Frameworks
 - Kits for a practical response
-- App with UX flow:
+- App with UX flow (as part of practical response):
     - Select skills you want to grow or from predefined templates based on domain.
     - AI Learning-Partner creates the templates for projects to grow the skills, [examples](/templates)
     - Work with AI learning-partner to support the learning/growth.
