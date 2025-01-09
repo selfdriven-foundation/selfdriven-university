@@ -17,6 +17,8 @@
 - Trust
 - A place to meet and socialise (social)
 - Facilitate the social
+
+### Docs
 - [Litepaper](/docs/LITEPAPER.md)
 - [Design](/docs/DESIGN.md)
 
