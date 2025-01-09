@@ -43,12 +43,13 @@
 - Existing learner-focused learning initatives
 
 ### Resources
+- [**GitHub Repo**](https://github.com/selfdriven-foundation/selfdriven-university)
 - [selfdriven.foundation/growth](https://selfdriven.foundation/growth)
 - [selfdriven.ai](https://selfdriven.ai)
 - [selfdriven.id](https://selfdriven.id)
 - [skillzeb.io](https://skillzeb.io)
 - [octomics.io](https://octomics.io)
-- [GitHub Repo](https://github.com/selfdriven-foundation/selfdriven-university)
+
 
 ### Roadmap
 - Scope
