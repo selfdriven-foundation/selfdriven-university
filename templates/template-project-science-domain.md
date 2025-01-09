@@ -1,5 +1,5 @@
 ## Project Title  
-**“Investigating Local Water Quality”**
+**Science: “Investigating Local Water Quality”**
 
 ---
 
@@ -77,8 +77,8 @@ You’ll investigate a nearby water source (like a pond or a local creek) to see
 
 ---
 
-## Skills: Scientific Methods:
-
+## Skills:
+ "Scientific Method",
 "Experimental Design"
 "Data Collection"
 "Hypothesis Testing"
