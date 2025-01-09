@@ -51,6 +51,7 @@
 - [selfdriven.id](https://selfdriven.id)
 - [skillzeb.io](https://skillzeb.io)
 - [octomics.io](https://octomics.io)
+- [heyocto.ai](https://heyocto.ai)
 
 
 ### Roadmap
