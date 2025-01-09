@@ -11,15 +11,13 @@
 
 ```mermaid
 flowchart TD
-    A[Select Skills to Grow] -->|Choose Skills| B[Predefined Templates]
-    A -->|Select from Templates| B
-    B --> C[AI Learning-Partner Creates Templates]
-    C --> D[Projects to Grow Skills]
-    D --> E[Work with AI Learning-Partner]
-    E --> F[Physically Socialize with Learners]
-    F -->|University Spaces, Music, etc.| G[Verify Growth/Learning]
-    G -->|Social Conversations & Observations| H[Templates for Verification]
-    H --> I[App Schedules Verification]
-    I --> J[Issue SSI Credentials]
-    J --> K[Verified Achievements]
+    A[Select Skills to Grow] --> B[AI Learning-Partner Creates Templates]
+    B --> C[Projects to Grow Skills]
+    C --> D[Work with AI Learning-Partner]
+    D --> E[Physically Socialize with Learners]
+    E -->|University Spaces, Music, etc.| F[Verify Growth/Learning]
+    F -->|Social Conversations & Observations| G[Templates for Verification]
+    G --> H[App Schedules Verification]
+    H --> I[Issue SSI Credentials]
+    I --> J[Verified Achievements]
 
