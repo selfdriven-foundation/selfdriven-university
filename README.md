@@ -10,7 +10,7 @@
 - Building roadmap
 
 ### Scope
-- Purpose / Value to Society
+- Model Purpose / Value to Society
 - Root of Trust for society (Proof of Activity & Growth)
 - Protocols
 - Identity
@@ -30,11 +30,12 @@
 - Frameworks
 - Kits for a practical response
 - App with UX flow:
-    - Select skills you want to grow
-    - Templates for projects, [examples](/templates)
-    - Work with AI learning-partner
-    - Physically socialise with other learners (University spaces)
-    - Verify - human learning-partners no longer deliver content, they verify learning via social conversations - based on templates for verification of growth/learning.
+    - Select skills you want to grow or from predefined templates based on domain.
+    - AI Learning-Partner creates the templates for projects to grow the skills, [examples](/templates)
+    - Work with AI learning-partner to support the learning/growth.
+    - Physically socialise with other learners (University spaces) - including music etc 
+    - Verify - as human learning-partners no longer deliver content, they verify learning via social conversations and observations based on templates for verification of growth/learning.  App helps with scheduling.
+    - Issue Self-Sovereign Identity (SSI) credentials based on verified achievements.
 
 ### Inputs
 - [selfdriven Research Simulations](https://github.com/selfdriven-foundation/research/tree/main/simulations)
