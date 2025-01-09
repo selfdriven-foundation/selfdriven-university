@@ -18,6 +18,7 @@
 - A place to meet and socialise (social)
 - Facilitate the social
 - [Litepaper](/docs/LITEPAPER.md)
+- [Design](/docs/DESIGN.md)
 
 ### Processes
 - Adminissions
