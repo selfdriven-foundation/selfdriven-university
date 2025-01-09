@@ -1,4 +1,4 @@
-## Universities in the Intelligence Age.
+## Universities in the Intelligence Age
 
 > A reference model university for the intelligence age.
 
