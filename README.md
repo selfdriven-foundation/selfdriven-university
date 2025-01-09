@@ -10,8 +10,8 @@
 - Building roadmap
 
 ### Scope
-- Model Purpose / Value to Society
-- Root of Trust for society (Proof of Activity & Growth)
+- Purpose / value of university to society with universal access to intelligence.
+- Root of trust for society (Proof of Activity & Growth)
 - Protocols
 - Identity
 - Trust
