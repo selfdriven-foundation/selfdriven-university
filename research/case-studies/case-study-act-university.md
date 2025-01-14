@@ -2,7 +2,7 @@ https://www.theguardian.com/australia-news/2025/jan/15/australian-college-of-the
 
 > **The Australian College of Theology (ACT) has become Australia's 44th university and will be renamed the Australian University of Theology. This follows a protracted appeal process with the Tertiary Education Quality and Standards Agency (TEQSA) over research quality standards. ACT is the third religious institution to gain university status since 2020, highlighting the increasing prominence of religious education providers in Australia.**
 
-Here are the top 10 points from the article about the Australian College of Theology achieving university status:
+## Here are the top 10 points from the article about the Australian College of Theology achieving university status:
 
 1. **University Recognition**: The Australian College of Theology (ACT) is now Australia's 44th university, renamed the Australian University of Theology.
 
@@ -24,7 +24,7 @@ Here are the top 10 points from the article about the Australian College of Theo
 
 10. **Sectoral Influence**: The decision may encourage other niche or specialized institutions to pursue university status, potentially diversifying Australia's higher education sector.
 
-Here are the top 10 concerns associated with the Australian College of Theology (ACT) achieving university status, as inferred from broader discussions about such developments:
+## Here are the top 10 concerns associated with the Australian College of Theology (ACT) achieving university status, as inferred from broader discussions about such developments:
 
 1. **Quality Assurance**: Concerns about whether the institution's research and academic standards align with those of established universities.
 
