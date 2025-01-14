@@ -48,7 +48,7 @@ https://www.theguardian.com/australia-news/2025/jan/15/australian-college-of-the
 
 ----
 
-# Here are the top 10 key learnings from the Australian College of Theology’s (ACT) journey to university status, tailored for your "Selfdriven University" initiative:
+## Here are the top 10 key learnings from the Australian College of Theology’s (ACT) journey to university status, tailored for your "Selfdriven University" initiative:
 
 ---
 
@@ -107,7 +107,7 @@ The key takeaway from ACT’s journey is that focused specialization, research e
 
 ----
 
-# How do you think we can best use AI & Blockchain (Cardano) with this in mind and out litepaper: https://www.selfdriven.university/docs/LITEPAPER.html
+## How do you think we can best use AI & Blockchain (Cardano) with this in mind and out litepaper: https://www.selfdriven.university/docs/LITEPAPER.html
 
 ### Research Summary: Australian College of Theology Achieves University Status
 
@@ -166,12 +166,11 @@ The transition of ACT to university status provides a valuable framework for eme
 
 ----
 
+## Given the success of the Australian College of Theology how would you postition/engage our "selfdriven University" with regulators
 
 Positioning and engaging "Selfdriven University" with regulators, inspired by the success of the Australian College of Theology (ACT), would require a strategic approach emphasizing alignment with regulatory requirements, clear articulation of your value proposition, and building trust. Here's how you can position and engage:
 
 ---
-
-# Given the success of the Australian College of Theology how would you postition/engage our "selfdriven University" with regulators
 
 ### **1. Establish Credibility Through Research and Standards**
    - **Research Excellence:** Focus on producing high-quality, peer-reviewed research in AI, blockchain, and education technology. This demonstrates academic rigor and aligns with TEQSA or similar regulatory standards.
