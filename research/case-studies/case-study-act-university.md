@@ -48,7 +48,7 @@ https://www.theguardian.com/australia-news/2025/jan/15/australian-college-of-the
 
 ----
 
-Here are the top 10 key learnings from the Australian College of Theology’s (ACT) journey to university status, tailored for your "Selfdriven University" initiative:
+# Here are the top 10 key learnings from the Australian College of Theology’s (ACT) journey to university status, tailored for your "Selfdriven University" initiative:
 
 ---
 
@@ -66,7 +66,6 @@ Here are the top 10 key learnings from the Australian College of Theology’s (A
    - ACT's path included extensive interactions with TEQSA. Early, collaborative engagement with regulatory bodies ensures alignment with requirements and reduces potential hurdles.
 
 ---
-# What are the top 10 learnings we can take away from this?
 
 ### **4. Governance and Accountability Build Trust**
    - Robust governance frameworks and transparent decision-making processes played a role in ACT's success. Strong institutional governance will be crucial for gaining regulatory approval and stakeholder confidence.
