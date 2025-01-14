@@ -48,7 +48,7 @@ https://www.theguardian.com/australia-news/2025/jan/15/australian-college-of-the
 
 ----
 
-# How do you think we can best use AI & Blockchain (Cardano) with this in mind and out light paper: https://www.selfdriven.university/docs/LITEPAPER.html
+# How do you think we can best use AI & Blockchain (Cardano) with this in mind and out litepaper: https://www.selfdriven.university/docs/LITEPAPER.html
 
 ### Research Summary: Australian College of Theology Achieves University Status
 
