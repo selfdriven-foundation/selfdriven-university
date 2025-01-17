@@ -1,6 +1,6 @@
 # References: Universities in the Intelligence Age (v0.0.1)
 
-> Also see [docs/references.md](https://github.com/selfdriven-foundation/selfdriven-university/blob/main/docs/resources.md)
+> Also see [docs/resources.md](https://github.com/selfdriven-foundation/selfdriven-university/blob/main/docs/resources.md)
 
 ## Articles
 - [https://www.apru.org/resources_report/whitepaper-generative-ai-in-higher-education-current-practices-and-ways-forward/](https://www.apru.org/resources_report/whitepaper-generative-ai-in-higher-education-current-practices-and-ways-forward/)
